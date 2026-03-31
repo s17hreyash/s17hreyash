@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Shreyash 👋
 
-<!--
-**s17hreyash/s17hreyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI Student at VIT Bhopal  
+🤖 Interested in AI, Product Thinking & UI/UX  
+🚀 Currently learning: Web Development + Design + AI Basics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills I'm Exploring
+- UI/UX Design (Figma, Canva)
+- HTML, CSS (Basics)
+- Python (Beginner)
+- Problem Solving
+
+---
+
+## 🎯 Goals
+- Build AI-powered products
+- Improve design thinking
+- Create real-world impactful solutions
+
+---
+
+## 📌 Projects (Coming Soon)
+Working on beginner projects combining design + AI 🚀
